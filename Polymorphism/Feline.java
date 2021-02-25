@@ -1,5 +1,5 @@
 
-public class Feline extends Animal {
+abstract public class Feline extends Animal {
 
    public String roam(String enviroment){
      
